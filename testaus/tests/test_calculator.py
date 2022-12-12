@@ -1,5 +1,5 @@
 import unittest
-import calculator.calculator as calculator
+from calculator import calculator as calculator
 # from .. import plus, minus
 
 
